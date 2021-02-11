@@ -1,12 +1,29 @@
+/* 
+#london
+{
+   color: pink;
+}
+
 .capital{
     color: red;
 }
 
 .paris.capital{
     background-color: beige;
-}
-
-#london
+} */
+.myspan
 {
+    /* padding: 0px 5px; */
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: solid black 2px;
+    border-bottom: solid grey 4px;
     background-color: pink;
+}
+#myparagraph
+{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: lightgreen;
+    margin: 5px;
 }
