@@ -9,3 +9,16 @@
 #london-heading{
     background-color: pink;
 }
+
+span{
+    padding: 0 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+    /* padding-left: 5px;
+    padding-right: 5px; */
+    /* padding: 0 5px 0 5px; */
+}
+.paragraph-with-span{
+    border:10px lightgreen ridge;   
+    margin: 5px;
+}
